@@ -3051,6 +3051,6 @@ public class Test1 {
 		list.add(2,2);
 		
 		System.out.println(list);
-		
+		System.out.println(list.size());
 	}
 }
