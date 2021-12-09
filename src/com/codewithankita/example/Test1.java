@@ -7,7 +7,7 @@ public class Test1 {
 
 	public static void main(String[] args) {
 		System.out.println("In main");
-		List list = new ArrayList();
+		List list = new ArrayList();//creating ArrayList
 		list.add(1);
 		list.add(1);
 		list.add(1);
