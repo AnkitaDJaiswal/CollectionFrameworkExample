@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class Test1 {
 
 	public static void main(String[] args) {
-		
+		System.out.println("In main");
 		ArrayList list = new ArrayList();
 		list.add(1);
 		list.add(1);
